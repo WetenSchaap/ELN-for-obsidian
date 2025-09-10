@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
       "basename": "Quick-start guide",
       "path": "Quick-start guide.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Experiment",
       "path": "__templates/Experiment.md"
-    },
-    {
-      "basename": "Readme",
-      "path": "Readme.md"
     },
     {
       "basename": "swinkelsNetworksLimitedValencyPatchy2024",

@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick-start guide.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Quick-start guide"
+              "title": "Readme"
             }
           }
         ]
@@ -302,7 +302,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Quick-start guide.md"
+                "file": "Readme.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -333,9 +333,9 @@
   "active": "c40b717390eed8b4",
   "lastOpenFiles": [
     "Quick-start guide.md",
+    "Readme.md",
     "__templates/DailyNote.md",
     "__templates/Experiment.md",
-    "Readme.md",
     "literature/swinkelsNetworksLimitedValencyPatchy2024.md",
     "meetings/20250829_meeting-with-collaborator.md",
     "stocks-samples/20250829_Vanilin.md",

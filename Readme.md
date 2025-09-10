@@ -1,4 +1,6 @@
-This is my template for using Obsidian as an electronic lab notebook (ELN). Read about the idea behind this template on my website [here](https://swnkls.nl/en/posts/obsidian_as_an_eln) and a bit about ELNs in general [here](https://kagi.com/assistant/feaa8e18-5dd5-446d-8d78-ad8626e52306). If you don’t feel like reading and just want to get started, [[Quick-start guide|go to the quick-start guide]]. If you enjoy reading, you’re on the right page.
+This is my template for using Obsidian as an electronic lab notebook (ELN). Read about the idea behind this template on my website [here](https://swnkls.nl/en/posts/obsidian_as_an_eln), and a bit about ELNs in general [here](https://kagi.com/assistant/feaa8e18-5dd5-446d-8d78-ad8626e52306). If you don’t feel like reading and just want to get started, [[Quick-start guide|go to the quick-start guide]]. If you enjoy reading, you’re on the right page.
+
+Note that this vault is supposed to be read inside of Obsidian! If you are reading this on github or elsewhere, download this vault [at this link](https://github.com/WetenSchaap/ELN-for-obsidian/releases/latest), unzip the vault, and open it in Obsidian.
 
 ## Try it out!
 
@@ -47,12 +49,14 @@ If you want to keep notes about your favourite papers in Obsidian, you can of co
 
 Obsidian is flexible, so do not feel constrained by my selection of notes: if you feel like a note type about, for instance, teaching would be a good addition, add it! If you want to change a note template, go ahead!  
 To change a note template, simply open one of the files in the `__templates` folder and change it. The current note types are:
+
 - [[__templates/DailyNote|DailyNote]]
 - [[__templates/Experiment|Experiment]]
 - [[__templates/Meeting|Meeting]]
 - [[__templates/Stock|Stock]]  
 
 To add a new standard note type:
+
 1. Create a new note in this folder, for instance `teaching`. Make the note look like you want, add the right properties, etc.
 2. Create a folder where notes of that category should go, for instance `teaching`.
 3. Then go to the Templater plugin screen and press `Add New Folder Template`, and add your note template and and folder where the notes should end up.
@@ -64,14 +68,18 @@ Making notes is very nice and all, but it is not very useful if you cannot find 
 
 ![[Experiments.base]]  
 
-
 Here you see all experiments currently in our vault that are _not_ marked as completed. If you make a new experiment, it will be added to the table. In the top left, you can select a different _view_. This means a different filter is applied to your notes. The `All experiments` view will show all experiments, including their name and status. The `Useful experiments` view will only display experiments marked as useful. The `Stale experiments` view will display experiments that are not yet completed but have been created over a month ago.  
 You can also make your own view. You can filter on all properties you gave the experiment: tags, date created, the presence of certain words - whatever you want.
 
 In this example vault, I have created four default bases:
+
 1. [[Experiments.base]]
 2. [[Stocks & Samples.base]]
 3. [[Spreadsheets.base]]
 4. [[Meetings & Talks.base]]  
 
 Just look at them if you need to find something specific. You can of course also create your own views inside an existing base, or create your own bases!
+
+## Final comments
+
+If you like using this template, have comments or suggestions, or anything else really, please leave a comment [here](https://swnkls.nl/en/posts/obsidian_as_an_eln) or send me a personal message [here](https://swnkls.nl/en/contact) - I would love to hear your feedback, and whether people find this useful! You can also open discussion or issues in GitHub if you know how to do that.
