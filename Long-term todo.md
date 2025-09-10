@@ -1,0 +1,4 @@
+- [ ] Write PhD thesis
+- [x] Fall in love
+- [ ] Do the thing you've been putting of
+- [ ] Win Ig Noble Prize

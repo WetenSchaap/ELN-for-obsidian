@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.folder == "meetings"
+views:
+  - type: table
+    name: All Meetings & talks
+    order:
+      - file.name
+      - Useful
+      - Title
+      - Occasion
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: Title
+        direction: ASC
+    columnSize:
+      file.name: 246
+      note.Title: 188
+    rowHeight: medium

@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.ext.containsAny("xls", "xlsx", "ods")
+views:
+  - type: table
+    name: All spreadsheets
+    order:
+      - file.name
+      - file.backlinks
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
+    cardSize: 330
+    rowHeight: tall

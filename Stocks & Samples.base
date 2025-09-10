@@ -1,0 +1,36 @@
+filters:
+  and:
+    - file.folder == "stocks-samples"
+views:
+  - type: table
+    name: All available stocks & samples
+    filters:
+      and:
+        - Finished != true
+    order:
+      - file.name
+      - Compound
+      - Solvent
+      - Concentration
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      note.Compound: 187
+    rowHeight: medium
+  - type: table
+    name: All stocks & samples
+    order:
+      - file.name
+      - Finished
+      - Compound
+      - Concentration
+      - Solvent
+    sort:
+      - property: Finished
+        direction: DESC
+    columnSize:
+      file.name: 217
+      note.Finished: 44
+      note.Compound: 187
+    rowHeight: medium

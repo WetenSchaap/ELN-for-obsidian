@@ -1,0 +1,20 @@
+{
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-citation-plugin:insert-citation": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ]
+}

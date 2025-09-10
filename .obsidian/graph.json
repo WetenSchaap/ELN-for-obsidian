@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "path:experiments  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:experiments  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:dailynotes  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:stocks-samples  ",
+      "color": {
+        "a": 1,
+        "rgb": 65344
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 0.801822916666667,
+  "lineSizeMultiplier": 0.929427083333333,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3003387451171875,
+  "close": false
+}

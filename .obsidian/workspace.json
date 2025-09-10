@@ -1,0 +1,373 @@
+{
+  "main": {
+    "id": "cb70287da52f7fe2",
+    "type": "split",
+    "children": [
+      {
+        "id": "75d3d110b6b6246a",
+        "type": "tabs",
+        "dimension": 60.283097418817654,
+        "children": [
+          {
+            "id": "c40b717390eed8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick-start guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Quick-start guide"
+            }
+          }
+        ]
+      },
+      {
+        "id": "69d674d85dfb3f21",
+        "type": "split",
+        "dimension": 39.71690258118235,
+        "children": [
+          {
+            "id": "86b631ced852cfbf",
+            "type": "tabs",
+            "dimension": 56.104651162790695,
+            "children": [
+              {
+                "id": "e74bac5f08014de4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dailynotes/20250829.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250829"
+                }
+              },
+              {
+                "id": "ee6c6262783bda8b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "stocks-samples/20250829_Vanilin.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250829_Vanilin"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "09be4abaee9f33e6",
+            "type": "tabs",
+            "dimension": 43.895348837209305,
+            "children": [
+              {
+                "id": "6a724a5e58c156a7",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "Spreadsheets.base",
+                    "viewName": "All spreadsheets"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Spreadsheets"
+                }
+              },
+              {
+                "id": "54288b852787d8f1",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "Meetings & Talks.base",
+                    "viewName": "All Meetings & talks"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Meetings & Talks"
+                }
+              },
+              {
+                "id": "4052640a0e97f70d",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "Stocks & Samples.base",
+                    "viewName": "All available stocks & samples"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Stocks & Samples"
+                }
+              },
+              {
+                "id": "7680a5efc6c2340b",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "Experiments.base",
+                    "viewName": "All experiments"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Experiments"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9dfbd0c9f43d7ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "30bb36c1efca4d3e",
+        "type": "tabs",
+        "dimension": 71.98033707865169,
+        "children": [
+          {
+            "id": "5bc6cb3b44954c1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "19f586b0393948a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Welcome",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2f28d841d32c19db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "85605740cc03b804",
+        "type": "tabs",
+        "dimension": 28.019662921348313,
+        "children": [
+          {
+            "id": "84c01c39a4b1fbe5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49db15ccf6fa4d74",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5911cbb40f2429b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90390df4a2c696f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dailynotes/20241028.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20241028"
+            }
+          },
+          {
+            "id": "d2dee4512580874d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dailynotes/20241028.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 20241028"
+            }
+          },
+          {
+            "id": "01095003d0965e39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bec00a41df50bae5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3413e0071e6abfac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dailynotes/20241028.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 20241028"
+            }
+          },
+          {
+            "id": "b0c54806256c544c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "dc0be06c5f1d2694",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Quick-start guide.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "canvas:Create new canvas": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "c40b717390eed8b4",
+  "lastOpenFiles": [
+    "Quick-start guide.md",
+    "__templates/DailyNote.md",
+    "__templates/Experiment.md",
+    "Readme.md",
+    "literature/swinkelsNetworksLimitedValencyPatchy2024.md",
+    "meetings/20250829_meeting-with-collaborator.md",
+    "stocks-samples/20250829_Vanilin.md",
+    "experiments/20250901_PJMS01.md",
+    "dailynotes/20250829.md",
+    "stocks-samples/20250312_Vanilin.md",
+    "stocks-samples/20250716_hydrophobic-glass-slide.md",
+    "().md",
+    "__templates/Stock.md",
+    "__media/PhysRevLett.132.078203.pdf",
+    "dailynotes/20250910.md",
+    "Experiments.base",
+    "dailynotes/20250904.md",
+    "dailynotes/20250903.md",
+    "Spreadsheets.base",
+    "__templates/Literature.md",
+    "Excalidraw/Drawing 2025-08-29_22.05.00.excalidraw.md",
+    "Excalidraw",
+    "__media/20250901_PJMS01 2025-08-29_21.43.55.excalidraw.md",
+    "experiments/20250829_PJMS02.md",
+    "dailynotes/20250901.md",
+    "Stocks & Samples.base",
+    "Meetings & Talks.base",
+    "spreadsheets/exciting_calculator_sheet.ods",
+    "spreadsheets/lu10074xhlf.tmp",
+    "__media/Pasted image 20250829211201.png",
+    "dailynotes/20250831.md",
+    "dailynotes/20250830.md",
+    "experiments/20250829_PJMS01.md",
+    "Long-term todo.md",
+    "dailynotes/20250828.md",
+    "stocks-samples",
+    "spreadsheets"
+  ]
+}

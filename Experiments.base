@@ -1,0 +1,54 @@
+filters:
+  and:
+    - file.folder == "experiments"
+views:
+  - type: cards
+    name: Current experiments
+    filters:
+      and:
+        - Completed != true
+    order:
+      - file.name
+      - Title
+    imageFit: contain
+    cardSize: 320
+  - type: table
+    name: All experiments
+    order:
+      - file.name
+      - Title
+      - Completed
+      - StartDate
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      note.Title: 408
+    rowHeight: medium
+  - type: table
+    name: Useful experiments
+    order:
+      - file.name
+      - Title
+      - Paper-worthy
+      - StartDate
+    sort:
+      - property: file.name
+        direction: DESC
+    rowHeight: medium
+  - type: table
+    name: Stale Experiments
+    filters:
+      and:
+        - Completed == false
+        - file.ctime < (now() - "1 month")
+    order:
+      - file.name
+      - Title
+      - StartDate
+    sort:
+      - property: file.name
+        direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.Title: 273
